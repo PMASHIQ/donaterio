@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "567947972736",
+    "firebase_url": "https://donaterio-29a55.firebaseio.com",
+    "project_id": "donaterio-29a55",
+    "storage_bucket": "donaterio-29a55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567947972736:android:06475b797ee77fba415665",
+        "android_client_info": {
+          "package_name": "com.example.donaterio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567947972736-1tj9r7aoe9kgv7a5ikd5ga84ng071efq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR8-eYM_sYbecohsiQ4ffNXPyg-nApxLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567947972736-1tj9r7aoe9kgv7a5ikd5ga84ng071efq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
